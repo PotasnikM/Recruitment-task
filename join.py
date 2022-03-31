@@ -11,7 +11,7 @@ def open_csv(path):
 
 
 # Function to join files
-# data_1 and _2 are list of dictionaries that contains rows of given csv files
+# data_1 and data_2 are lists of dictionaries that contains rows of given csv files
 # column is string name of column that is center of joining files
 # diff list of strings- names of columns that are not in both csv
 # mode - string name method of joining files
