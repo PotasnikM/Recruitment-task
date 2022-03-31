@@ -58,7 +58,7 @@ if __name__ == "__main__":
     except FileNotFoundError:
         print('Provide right arguments')
     except IndexError:
-        print('Not all args was given')
+        print('Not all args were given')
 
     # I tested my solution on borrowed.csv and loan.csv
 
